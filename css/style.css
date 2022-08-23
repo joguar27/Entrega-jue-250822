@@ -24,6 +24,7 @@
 }
 .footer{
     background-color: #a474d0;
+    margin-top: 65rem;
 }
 .footer ul li a{
     color: white;
@@ -35,4 +36,31 @@
 }
 .btn:hover{
     background-color: rgb(164, 100, 157);
+}
+.text-center2{
+    color: hwb(271 50% 25%);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.titulo{
+    color: #a474d0;
+    text-align: center;
+    padding-top: 2rem;
+}
+.form-select{
+    width: 25%;
+    margin: 2rem;
+    background-color: rgb(220, 176, 215);
+    color: white;
+    font-size: 1.5rem;
+}
+.preguntas{
+    font-size: 1.4rem;
+}
+.preguntas li{
+    color: #c99bd4;
+    margin-left: 3rem;
+}
+.preguntas li p{
+    color: black;
 }
