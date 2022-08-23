@@ -29,3 +29,10 @@
     color: white;
     font-weight: bold;
 }
+.btn{
+    background-color: #c99bd4;
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(164, 100, 157);
+}
